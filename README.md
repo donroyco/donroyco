@@ -1,16 +1,15 @@
-### Hi there 👋
+## Roy - @donroyco
+<p>I am Roy, front end developer, trying to help out on open source projects.</p>
 
-<!--
-**donroyco/donroyco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📣 Projects I contributed to
+- [Angular Components](https://github.com/angular/components)
+- [Angular material.angular.io](https://github.com/angular/material.angular.io)
+- [DeckDeckGo](https://github.com/deckgo/deckdeckgo)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎉 Some fun side projects
+- [Generator](https://donroyco.github.io/generator/) - Generate a random string
+- [Mondrian](https://donroyco.github.io/mondrian/) - Abstract art
+- [Tabint](https://donroyco.github.io/tabhint/) - A small snippet to check if your tab has the user's focus
+
+<p>Feel free to contact me on <a href="https://twitter.com/donroyco">Twitter</a>.</p>
