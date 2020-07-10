@@ -10,6 +10,6 @@
 ### 🎉 Some fun side projects
 - [Generator](https://donroyco.github.io/generator/) - Generate a random string
 - [Mondrian](https://donroyco.github.io/mondrian/) - Abstract art
-- [Tabint](https://donroyco.github.io/tabhint/) - A small snippet to check if your tab has the user's focus
+- [Tabhint](https://donroyco.github.io/tabhint/) - A small snippet to check if your tab has the user's focus
 
 <p>Feel free to contact me on <a href="https://twitter.com/donroyco">Twitter</a>.</p>
